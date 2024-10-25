@@ -1,2 +1,2 @@
 # 6crickets-coding-test
-6crickets-coding-test
+Executing instructions are in respective folder README.md files.
